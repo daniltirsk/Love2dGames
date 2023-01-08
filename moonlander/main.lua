@@ -52,7 +52,7 @@ end
 function nextLevel()
     ship.pos = initialPos
 
-    initilizeSpeed = initilizeSpeed*1.2
+    initilizeSpeed = initilizeSpeed*1.1
 
     ship.velocity = initilizeSpeed
     ship.angle = -1.5
