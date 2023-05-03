@@ -1,4 +1,4 @@
-# LunarLander  
+# FlappyBird
 ## Аналог игры FlappyBird, написанный на Lua и Love2D
 
 ![flappy1](https://user-images.githubusercontent.com/56964428/235936596-96c52f0f-3e3c-455d-a695-465c09f231c6.png)
