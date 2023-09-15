@@ -6,4 +6,4 @@
 2) 3 game modes: PvP, PvE, Demo  
 3) Opponent AI created using minimax with alpha-beta pruning  
   
-<img src="https://github.com/daniltirsk/Love2dGames/assets/56964428/f01d8394-9ee6-4957-a8d5-2907f262fc4c" width="250" height="250">
+<img src="https://github.com/daniltirsk/Love2dGames/assets/56964428/f01d8394-9ee6-4957-a8d5-2907f262fc4c" width="400" height="400">
