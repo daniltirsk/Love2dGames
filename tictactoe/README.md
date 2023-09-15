@@ -1,5 +1,5 @@
 # A Siple TIC TAC TOE game
-![image](https://github.com/daniltirsk/Love2dGames/assets/56964428/1f18fc93-5f7c-48ac-9c07-44b21e8b8082)
+![image](https://github.com/daniltirsk/Love2dGames/assets/56964428/1f18fc93-5f7c-48ac-9c07-44b21e8b8082 = 250x250)
 
 # Features
 1) 3x3 and 5x5 board  
